@@ -1,3 +1,2 @@
 # ca-contrib
-# This is a line from Rstudio
-# Edited on GitHub
+# Look at Californian contributors and recipients
